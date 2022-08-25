@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ProjectAgileWeb7": {
+        "commandName": "Project",
+        "launchBrowser": true,
+        "environmentVariables": {
+            "ServiceUrl": "https://localhost:44328/api/",
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "applicationUrl": "https://localhost:63116;http://localhost:63117"
+    }
+  }
+}
